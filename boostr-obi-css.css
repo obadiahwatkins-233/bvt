@@ -1,0 +1,62 @@
+html,body{
+    background-color: rgb(0, 0, 0);
+}
+
+.navbar {
+    background-color: rgb(167, 41, 41);
+}
+
+.background-container {
+    border: 5px solid rgb(80, 80, 80);
+    min-height: 100vh;
+}
+
+.main-container {
+    border: 2px solid rgb(80, 80, 80);
+}
+
+h1 {
+    text-align: center;
+}
+
+.col {
+    border: 1px solid rgb(80, 80, 80);
+    
+}
+
+.boss, .dad, .mom, .sister {
+    border: 1px solid rgb(80, 80, 80);
+    padding: 15px;
+}
+
+.compose-button {
+    margin-bottom: 15px;
+    background-color: rgb(80, 80, 80);
+}
+
+.search-bar {
+    margin-bottom: 15px;
+    text-align: center;
+    background-color: rgb(80, 80, 80);
+}
+
+.search-bar-center {
+    text-align: center;
+}
+
+h3 {
+    margin-top: 37px;
+    margin-bottom: 25px;
+}
+
+.compose-field {
+    width: 100%;
+    height: 170px;
+    background-color: rgb(80, 80, 80);
+}
+
+.send-button {
+    text-align: right;
+   
+
+    
