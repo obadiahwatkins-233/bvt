@@ -3,16 +3,16 @@ html,body{
 }
 
 .navbar {
-    background-color: rgb(167, 41, 41);
+    background-color: rgb(80, 80, 80);
 }
 
 .background-container {
-    border: 5px solid rgb(80, 80, 80);
+    border: 6px solid rgb(80, 80, 80);
     min-height: 100vh;
 }
 
 .main-container {
-    border: 2px solid rgb(80, 80, 80);
+    border: 4px solid rgb(80, 80, 80);
 }
 
 h1 {
@@ -20,12 +20,16 @@ h1 {
 }
 
 .col {
-    border: 1px solid rgb(80, 80, 80);
+    border: 2px solid rgb(80, 80, 80);
     
 }
 
-.boss, .dad, .mom, .sister {
-    border: 1px solid rgb(80, 80, 80);
+.boss {background-color: rgb(0, 0, 0); border: 30px solid rgb(80, 80, 80);
+padding: 15px;
+} 
+
+.dad, .mom, .sister {
+    border: 2px solid rgb(80, 80, 80);
     padding: 15px;
 }
 
@@ -55,8 +59,8 @@ h3 {
     background-color: rgb(80, 80, 80);
 }
 
-.send-button {
-    text-align: right;
+.reply-button {
+    text-align: left;
    
 
     
